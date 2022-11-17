@@ -1,4 +1,3 @@
 alzoko
 
-foryyyyyyyyyyyy
 
