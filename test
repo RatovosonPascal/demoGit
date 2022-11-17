@@ -1,0 +1,36 @@
+[33mcommit 5bc8283269c5cd7c9d9267b81529eee1d7153496[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: ad56f4f 9d1466b
+Author: ratovoson <lratovoson@gmail.com>
+Date:   Thu Nov 17 15:10:36 2022 +0100
+
+    Merge branch 'testing'
+
+[33mcommit 9d1466b003281dc25fddf1b71e984490a0271b64[m[33m ([m[1;32mtesting[m[33m)[m
+Author: ratovoson <lratovoson@gmail.com>
+Date:   Thu Nov 17 15:10:00 2022 +0100
+
+    test
+
+[33mcommit ad56f4f73dbbfa0304b97f252a250140b71bbcc0[m
+Author: ratovoson <lratovoson@gmail.com>
+Date:   Thu Nov 17 15:03:17 2022 +0100
+
+    add all
+
+[33mcommit 7617b9c15dfd45c48083c6eb29746c0631a4f6fe[m
+Author: ratovoson <lratovoson@gmail.com>
+Date:   Thu Nov 17 13:15:28 2022 +0100
+
+    third version
+
+[33mcommit d9338fa45f1c5a86be56d598055d8e11eb6aa919[m
+Author: ratovoson <lratovoson@gmail.com>
+Date:   Thu Nov 17 13:12:48 2022 +0100
+
+    second version
+
+[33mcommit 06e9fff670f68ff356d81bcebf6a270bae21088f[m
+Author: ratovoson <lratovoson@gmail.com>
+Date:   Thu Nov 17 13:06:47 2022 +0100
+
+    first commit
